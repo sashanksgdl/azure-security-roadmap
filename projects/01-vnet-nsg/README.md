@@ -12,3 +12,13 @@ Build a secure VNet with subnets and NSG rules that follow least privilege.
 ## Evidence to include
 - Screenshots of VNet, subnets, NSG rules
 - Notes explaining why each rule exists
+
+## Build checklist
+- [ ] Create Resource Group
+- [ ] Create VNet
+- [ ] Create subnets: Admin, App
+- [ ] Create NSG for Admin subnet
+- [ ] Add rule: allow SSH or RDP only from my IP
+- [ ] Create NSG for App subnet
+- [ ] Add rules: only required inbound, deny rest
+- [ ] Screenshot evidence and upload to repo
