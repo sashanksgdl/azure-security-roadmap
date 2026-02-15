@@ -22,3 +22,9 @@ Build a secure VNet with subnets and NSG rules that follow least privilege.
 - [ ] Create NSG for App subnet
 - [ ] Add rules: only required inbound, deny rest
 - [ ] Screenshot evidence and upload to repo
+
+## Lab choice
+- Primary VM: Linux (Ubuntu)
+- Admin access: SSH (port 22) limited to my public IP
+- Reason: common in cloud, simpler to secure and document
+- Optional extension: Windows VM with RDP (3389) limited to my public IP
