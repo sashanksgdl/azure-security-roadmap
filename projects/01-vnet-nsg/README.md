@@ -28,3 +28,5 @@ Build a secure VNet with subnets and NSG rules that follow least privilege.
 - Admin access: SSH (port 22) limited to my public IP
 - Reason: common in cloud, simpler to secure and document
 - Optional extension: Windows VM with RDP (3389) limited to my public IP
+
+(SCREENSHOTS OF DAY 2 AVAILABLE IN GITHUB)
